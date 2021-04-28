@@ -32,7 +32,7 @@ Project is created with
 * [Jwt-Decode](https://www.npmjs.com/package/jwt-decode)
 * [Faker](https://www.npmjs.com/package/faker)
 * [Nodemon](https://www.npmjs.com/package/nodemon)
-* [If-Env](https://www.npmjs.com/package/if-env
+* [If-Env](https://www.npmjs.com/package/if-env)
 
 
 ## Installation
