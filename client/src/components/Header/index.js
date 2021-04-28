@@ -14,21 +14,22 @@ const Header = () => {
     <header className="bg-secondary mb-4 py-2 flex-row align-center">
       <div className="container flex-row justify-space-between-lg justify-center align-center">
         <Link to="/">
-          <h1>Deep Thoughts</h1>
+          
+          <h1><i class="fas fa-comments"></i>NotTwitter</h1>
         </Link>
 
         <nav className="text-center">
           {Auth.loggedIn() ? (
             <>
-              <Link to="/profile">Me</Link>
+              <Link to="/profile"><i class="fas fa-user"></i> Me</Link>
               <a href="/" onClick={logout}>
-                Logout
+              <i class="fas fa-sign-out-alt"></i> Logout
               </a>
             </>
           ) : (
             <>
-              <Link to="/login">Login</Link>
-              <Link to="/signup">Signup</Link>
+              <Link to="/login"><i class="fas fa-sign-in-alt"></i> Login</Link>
+              <Link to="/signup"><i class="fas fa-user-plus"></i> Signup</Link>
             </>
           )}
         </nav>
