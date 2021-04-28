@@ -1,9 +1,9 @@
 import React from 'react';
 
-import ThoughtList from '../components/ThoughtList';
-
 import { useQuery } from '@apollo/react-hooks';
 import { QUERY_THOUGHTS } from '../utils/queries';
+
+import ThoughtList from '../components/ThoughtList';
 
 const Home = () => {
   // use useQuery hook to make query request
