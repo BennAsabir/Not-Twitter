@@ -13,7 +13,7 @@ Combining back-end by implementing a Node.js and Express.js API with a MongoDB d
 Building a full MERN stack (MongoDB, Express.js, React, and Node.js) to build a social media application called NotTwitter. Users will be able to sign up and create an account, post their thoughts, and interact with other users, just like you might find in the social media apps you use day in and day out in real life.
 <br>
 
-[Link to deployed application](https://bennasabir.github.io/react-portfolio/)
+[Link to deployed application](https://morning-tor-27341.herokuapp.com/)
 
 <br>
 Image of application.
