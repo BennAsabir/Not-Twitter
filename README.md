@@ -1,5 +1,5 @@
 # NotTwitter
-Combining back-end by implementing a Node.js and Express.js API with a MongoDB database, with a React front-end to create a single-page MERN social-media application.
+Combining back-end by implementing a Node.js and Express.js API with a MongoDB database, with a React front-end to create a single-page MERN social-media application!
 
 ## Table Of Content
 * [General Info](#general-info)
